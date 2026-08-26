@@ -1,0 +1,9 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Local environment variables and secrets
+.env
+
+# Codex workspace metadata
+.agents/
